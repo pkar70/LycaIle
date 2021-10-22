@@ -10,8 +10,7 @@ oraz
 	https://www.microsoft.com/pl-pl/p/v/9n5f4z9ztb9z
 
 # Polityka prywatności
- http://beskid.geo.uj.edu.pl/p/ms/lycaile-privacy.htm
- http://beskid.geo.uj.edu.pl/p/ms/virginmob-privacy.htm
+ https://github.com/pkar70/LycaIle/wiki/Privacy-policy
 
 
  For history (in Polish), see MainPage.xaml.vb file.
